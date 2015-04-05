@@ -389,6 +389,32 @@
 			        'sobota'
 			    ];
 			    break;
+			    // Svensk
+		    case 'sv':
+		        var monthNames = [
+					"Januari",
+					"Februari",
+					"Mars",
+					"April",
+					"Maj",
+					"Juni",
+					"Juli",
+					"Augusti",
+					"September",
+					"Oktober",
+					"November",
+					"December"
+		        ];
+		        var dayNames = [
+					'Tisdag',
+					'Onsdag',
+					'Torsdag',
+					'Fredag',
+					'Lördag',
+					'Söndag',
+					'Måndag'
+		        ];
+		        break;
 			//ukrainian
 		    case 'uk':
 		            var monthNames = [
